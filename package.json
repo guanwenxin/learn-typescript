@@ -11,5 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/koa": "^2.13.5",
+    "jquery": "^3.6.4",
+    "koa": "^2.14.1",
+    "vue": "^3.2.47"
   }
 }
