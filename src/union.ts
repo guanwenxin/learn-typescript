@@ -1,0 +1,1 @@
+const mulType: number | string | boolean = '123';
