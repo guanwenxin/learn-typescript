@@ -1,0 +1,2 @@
+pjw('test')
+globalThis.test()
